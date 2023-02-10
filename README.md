@@ -33,7 +33,7 @@ A File Rename Bot with Custom Thumbnail Support
 
 ## Configs 
 
-* TG_BOT_TOKEN  - Get bot token from @BotFather
+* TOKEN  - Get bot token from @BotFather
 
 * API_ID        - From my.telegram.org 
 
@@ -41,9 +41,9 @@ A File Rename Bot with Custom Thumbnail Support
 
 * ADMIN         - Your User ID 
 
-* DATABASE_NAME  - Your database name from mongoDB. Default will be 'my'
+* DB_NAME  - Your database name from mongoDB. Default will be 'my'
 
-* DATABASE_URI  - Mongo Database URL from https://cloud.mongodb.com/
+* DB_URL  - Mongo Database URL from https://cloud.mongodb.com/
 
 * START_IMG - Telegraph link [Eg:- https://telegra.ph/file/0e3738d56ff92e363a1d9.jpg]
 
