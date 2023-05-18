@@ -11,22 +11,22 @@
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "27108998"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "f4fc03493766db361d7e85ed8974fe2f"
         },
         "TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "6148802901:AAFwrFhiUl1Z4HTly_T1f9lK58mVKrHamgQ"
         },
         "ADMIN": {
-            "description":""
+            "description":"5191566338"
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://sonu55:sonu55@cluster0.vqztrvk.mongodb.net/?retryWrites=true&w=majority"
         },
         "DB_NAME":{ 
                "description":"Your Mongo DB Database Name ",
@@ -35,12 +35,12 @@
         },
         "FORCE_SUB":{ 
                "description":"Channel ID ",
-                "value": "",
+                "value": "-1001920003386",
                 
         },
         "START_IMG":{
                 "description":"Telegraph link",
-                "value":""
+                "value":"https://telegra.ph/file/0dd1c2a477e982bc61f26.jpg"
         }
     },
     "buildpacks": [
